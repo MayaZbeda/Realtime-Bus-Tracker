@@ -21,4 +21,4 @@ I would like to improve this project with a couple changes that I think would im
 * Having each pin also pull the bus number to display so the user could discern which bus was which. 
 * Allow bus stops by route, or as a whole, to be shown and hidden by the user with a toggle. I'm not sure if this is particularly possible, but it would be nice to also tie the color of the bus pin and the stops together so users could discern the individual routes.
 
-License information: This should include information about the MIT license. 
+License information: MIT 2023 License
