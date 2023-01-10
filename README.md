@@ -1,6 +1,8 @@
 # Realtime-Bus-Tracker
 A web application that allows you to track the buses on route 1 for MIT using MBTA data and Mapbox. A button can also be pressed to show the stops for one of the specific routes for MIT.
 
+<img src="BusTracker.gif" width='400'/>
+
 # How to Run: 
 * First, download the files in this repository. All the files should be in the same directory.
   * Ensure that you have the bus-tracker.html, style.css, and mapanimation.js
